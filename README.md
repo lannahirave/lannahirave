@@ -2,8 +2,6 @@
 
 **Software engineer · .NET / React / Python / AI**
 
-I build things across the stack: C# backends, TypeScript/React frontends, Python for ML and audio, the occasional game-server experiment, and anything else that catches my interest.
-
 ### 🚀 Projects
 
 - 🎙️ **[Voice Diary](https://github.com/lannahirave/yet-another-voice-diary)** — local-first Electron app that records meetings, transcribes them (Whisper), diarizes speakers and matches voices to saved contacts. Electron + React + FastAPI + SQLite, with a bundled MCP server.
